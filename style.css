@@ -2,7 +2,11 @@ body {
     background-color: #315c00;
 }
 
-h1 {
+img {
+    width: 100%;
+}
+
+h1{
     text-align: center;
 }
 
